@@ -66,9 +66,6 @@ O deploy é feito automaticamente utilizando Vercel após cada push na branch ma
 
 ---
 
-token vercel - 
-
-
 ##  Estrutura do Projeto
 
 ```bash
