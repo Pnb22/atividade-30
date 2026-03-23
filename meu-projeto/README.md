@@ -36,7 +36,7 @@ Acesse em: http://localhost:3000
 
 ---
 
-## 🧪 Comandos importantes
+## Comandos importantes
 
 ```bash
 npm run lint     # Verifica erros no código
@@ -62,7 +62,8 @@ A pipeline é executada automaticamente a cada:
 O deploy é feito automaticamente utilizando Vercel após cada push na branch main.
 
 🔗 Link do projeto:
-(https://atividade-30.vercel.app/)
+(https://atividade-30.vercel.app/)(
+atividade-30-git-main-arthurfgp22-2513s-projects.vercel.app)
 
 ---
 
@@ -76,6 +77,12 @@ O deploy é feito automaticamente utilizando Vercel após cada push na branch ma
 
 ---
 
-##  Autor
+
+=======
+>>>>>>> 691cc3c (read me)
+ Autor
 
 Arthur Fonseca
+
+=======
+>>>>>>> 691cc3c (read me)
